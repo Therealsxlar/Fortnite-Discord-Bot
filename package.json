@@ -1,0 +1,21 @@
+{
+  "name": "spacenite",
+  "version": "1.3.0",
+  "description": "An easy to use Fortnite lobbybot.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "fortnite",
+    "lobbybot",
+    "discord"
+  ],
+  "author": "Sirius Team",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "fnbr": "^1.4.1",
+    "node-fetch": "^2.6.1"
+  }
+}
